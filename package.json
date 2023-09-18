@@ -1,6 +1,6 @@
 {
   "name": "react-native-window-tint-color",
-  "version": "1.1.1",
+  "version": "1.1.1-brainloop-1.0.0",
   "description": "React Native Module to globally tint the keyWindow",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,13 +36,13 @@
     "ios",
     "tint color"
   ],
-  "repository": "https://github.com/raulriera/react-native-window-tint-color",
+  "repository": "https://github.com/dil-hschaefer/react-native-window-tint-color",
   "author": "Raul Riera <rieraraul@gmail.com> (https://github.com/raulriera)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raulriera/react-native-window-tint-color/issues"
+    "url": "https://github.com/dil-hschaefer/react-native-window-tint-color/issues"
   },
-  "homepage": "https://github.com/raulriera/react-native-window-tint-color#readme",
+  "homepage": "https://github.com/dil-hschaefer/react-native-window-tint-color#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
